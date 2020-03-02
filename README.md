@@ -4,7 +4,7 @@ Das ist die Website des Datenanalyse-/Immungenetik-Teils von M-Modul 4410 Immuno
 
 ## RStudio
 
-Voraussetzung zur Teilnahme an den Praktika ist, dass das Laptop, das benutzt werden soll, über eine funktionsfähige Version von R und RStudio verfügt.
+Voraussetzung zur Teilnahme am Experimentalteil ist, dass das Laptop, das benutzt werden soll, über eine funktionsfähige Version von R und RStudio verfügt.
 
 Bei R und RStudio handelt es sich um eine frei verfügbare Software zur Datananalyse und statistischen Programmierung. Beide Programme sind für alle populären Betriebssysteme verfügbar.
 
